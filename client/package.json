@@ -10,7 +10,7 @@
     "react-scripts": "2.1.8"
   },
   "devDependencies": {
-    "jest": "24.3.1"
+    "jest": "^24.2.0-alpha.0"
   },
   "scripts": {
     "start": "react-scripts start",
